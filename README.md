@@ -125,8 +125,6 @@ Relevant Coursework:
 ## 📫 Connect With Me
 
 * Email: [leesully99@gmail.com](mailto:leesully99@gmail.com)
-* LinkedIn: [www.linkedin.com/in/lee-osullivan-tech](http://www.linkedin.com/in/lee-osullivan-tech)
-* GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
